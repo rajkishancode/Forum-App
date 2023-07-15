@@ -42,7 +42,7 @@ Single Post View:
 ![single post view](https://neog-lms.vercel.app/Screenshot_2023-06-24_at_2.51.09_PM.png)
 
 JSON Data:
-```const forumData = {
+```{const forumData = {
   accountId: '98767-888-78767',
   username: 'tanaypratap',
   name: 'Tanay Pratap',
@@ -88,4 +88,4 @@ JSON Data:
       isBookmarked: false,
     },
   ],
-}```
+}}```
