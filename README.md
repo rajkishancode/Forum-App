@@ -44,7 +44,7 @@ Single Post View:
 JSON Data:
 
 
-`{const forumData = {
+```{const forumData = {
   accountId: '98767-888-78767',
   username: 'tanaypratap',
   name: 'Tanay Pratap',
@@ -90,4 +90,4 @@ JSON Data:
       isBookmarked: false,
     },
   ],
-}}`
+}}```
